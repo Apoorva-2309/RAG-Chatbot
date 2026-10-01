@@ -1,0 +1,10 @@
+streamlit>=1.30
+langchain>=0.1
+langchain-community>=0.0.10
+faiss-cpu>=1.7
+sentence-transformers>=2.2
+trafilatura>=1.6
+langchain-groq>=0.1
+beautifulsoup4>=4.12
+requests>=2.31
+python-dotenv>=1.0
